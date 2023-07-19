@@ -197,6 +197,17 @@ nav{
 .online-game-card .rectangle-7:hover{
     border: 2px solid #F948B2;
     border-radius:12px ;
+ 
+}
+
+.youtube-icons{
+    font-size: 2rem;
+    position: relative;
+   bottom:220px;
+    left: 100px;
+   
+    
+    
 }
 /* online game style end here */
 
@@ -367,7 +378,7 @@ nav{
 .footer-small-text p{
     padding-right: 20px;
 }
-.fa-brands{
+.icon .fa-brands{
     color: #FFF;
     font-size: 2rem;
     padding-top: 20px;
