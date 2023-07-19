@@ -144,3 +144,31 @@ nav{
 }
 
 /* banner section styled end here */
+
+/* online game style start here */
+
+.online-game{
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.online-game-text{
+    text-align: center;
+}
+
+.online-game-text .funny-videos{
+    background-image: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    color: transparent;
+    -webkit-background-clip: text;
+}
+.online-game-text h1{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.online-game-text p{
+    font-weight: 400;
+    font-size: 1rem;
+    color:#534C64 ;
+    
+}
