@@ -145,6 +145,10 @@ nav{
 
 /* banner section styled end here */
 
+
+
+
+
 /* online game style start here */
 
 .online-game{
@@ -193,4 +197,70 @@ nav{
 .online-game-card .rectangle-7:hover{
     border: 2px solid #F948B2;
     border-radius:12px ;
+}
+/* online game style end here */
+
+
+
+
+
+/* play-instantly style start here */
+.play-instantly{
+         
+
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+}
+.play-instantly-container{
+    display: flex;
+}
+
+.play-instantly-text{
+    width: 50%;
+    text-align: right;
+    margin-top: 150px;
+    margin-right: 150px;
+}
+
+.play-instantly-text h1 {
+          font-size: 3rem;
+          font-weight: 700;
+          text-align: start;
+}
+
+.play-instantly-text  p{
+    text-align:end;
+    font-size: 1rem;
+    color: #534C64;
+    font-weight: 400;
+}
+
+.play-instantly-text .span-play-instantly{
+              
+    background-image: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+.play-instantly-picture{
+    width: 50%;
+}
+.play-instantly-picture img{
+    width: 100%;
+}
+
+.regtangle-66{
+    width: 300px;
+    position: relative;
+    bottom: 200px;
+    right:  100px;
+    border-radius: 8px;
+   
+   
+}
+
+.regtangle-66 img{
+    width:100% ;
 }
