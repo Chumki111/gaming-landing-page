@@ -78,6 +78,14 @@
   width: 100%;
 }
 
+.game-container{
+  display: grid;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-content: center;
+ }
+
 
 
 
@@ -171,4 +179,7 @@
   text-align: center;
   
 }
+
+
+
 }
