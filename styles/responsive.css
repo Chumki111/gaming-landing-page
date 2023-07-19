@@ -86,6 +86,23 @@
   align-content: center;
  }
 
+ .footer-small-text{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+
+  
+  
+}
+.terms{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
+.play{
+  color: #FFF;
+  padding-bottom: 40px;
+  font-size: 10px;
+}
+
 
 
 
