@@ -12,6 +12,7 @@
     }
     .manu-container{
         flex-direction: column;
+       
       }
       .manu-container a{
         margin-top: 20px;
@@ -23,6 +24,7 @@
 
       .banner-container{
         flex-direction: column-reverse;
+        
      }
      .banner-img{
        width: 100%;
@@ -32,15 +34,27 @@
      width: 100%;
     text-align: center;
     
-     
+    
+    
  }
+
+ .banner-text-btn{
+  margin-bottom: 20px;
+
+ }
+ 
  .online-game-container{
-  display: grid;
-  grid-template-columns: repeat(1,1fr);
   
+  grid-template-columns: repeat(2,1fr);
+ 
   
-  gap: 10px;
+ 
+  
+ 
 }
+
+
+
 
 
 
@@ -154,12 +168,28 @@
    
     
 }
+
+.banner-text-btn{
+  margin-bottom: 20px;
+
+ }
 .online-game-container{
   display: grid;
   grid-template-columns: repeat(2,1fr);
   
   
   gap: 20px;
+}
+
+.online-game-text h1{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.online-game-text p{
+  font-weight: 400;
+  font-size: 1rem;
+  color:#534C64 ;
+  
 }
 
 

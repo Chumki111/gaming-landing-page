@@ -197,6 +197,7 @@ nav{
 .online-game-card .rectangle-7:hover{
     border: 2px solid #F948B2;
     border-radius:12px ;
+    background-color: #3C354F;
  
 }
 
@@ -316,6 +317,7 @@ nav{
     justify-content: space-between;
     color: #3C354F;
     background-color: #FFF;
+    
    
 
 }
